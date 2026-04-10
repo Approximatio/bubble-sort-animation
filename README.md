@@ -1,3 +1,6 @@
-This program draws a histogram for the number of hertz in a WAV file.
+One of my projects was developed in my first year of university.
 
-Don't forget change standard to C++20!
+This program visualizes the bubble sorting algorithm!
+
+![alt text](<Picture 1.PNG>)
+![alt text](<Picture 2.PNG>)
