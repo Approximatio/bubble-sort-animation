@@ -1,4 +1,4 @@
-_**One of my projects was developed in my first year of university.**_
+_**One of my projects, which was developed in the first year of university.**_
 
 This program visualizes the bubble sorting algorithm!
 
